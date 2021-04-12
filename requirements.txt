@@ -1,0 +1,6 @@
+colorama==0.4.3
+requests==2.25.1
+torrequest==0.1.0
+requests_futures==1.0.0
+Pillow==8.1.2
+pyTelegramBotAPI==3.7.6
